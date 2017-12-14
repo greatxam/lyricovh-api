@@ -1,5 +1,6 @@
 # lyricsovh-php
-A Lyrics.ovh PHP Implementation
+A Lyrics.ovh PHP Implementation.
+
 Searches for a song lyrics.
 
 # Usage
@@ -10,6 +11,7 @@ $php lyricsovh_console.php <artist> <title>
 ```
 
 To use it into your code, just include the ***lyricsovh.php***.
+
 No need to subclass the ***LyricsAPI*** abstract class. Just call the static function ***search()*** and pass the parameters.
 
 ```
@@ -28,3 +30,6 @@ try {
 	print($e->getMessage());
 }
 ```
+
+# Live Demo
+http://lyrics.pantas.ph

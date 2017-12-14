@@ -25,6 +25,7 @@
 <html>
 <head>
 	<title>lyrics.ovh API PHP Implementation</title>
+	<meta charset="utf-8">
 	<meta NAME="robots" CONTENT="noindex, nofollow">
 
 	<!-- jQuery 3.x -->
