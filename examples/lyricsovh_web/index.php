@@ -25,6 +25,7 @@
 <html>
 <head>
 	<title>lyrics.ovh API PHP Implementation</title>
+	<meta NAME="robots" CONTENT="noindex, nofollow">
 
 	<!-- jQuery 3.x -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -93,6 +94,9 @@
 				</div>
 			</div>
 		</form>
+		<footer class="footer">
+			<p>© 2017 Maximillian M. Estrada</p>
+		</footer>
 	</div>
 </body>
 </html>
